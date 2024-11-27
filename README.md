@@ -21,7 +21,7 @@ Este é um programa em Python que verifica se três lados fornecidos podem forma
 ## 🚀 Como executar
 
 1. Clone este repositório ou copie o código para um arquivo local.
-2. Salve o arquivo como `triangulo.py`.
+2. Salve o arquivo como `Exercicio.py`.
 3. Execute o programa com:
    ```bash
-   python triangulo.py
+   python Exercicio.py
